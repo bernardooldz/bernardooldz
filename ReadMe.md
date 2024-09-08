@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Estudante de Ensino Médio na escola técnica de TI Cotemig em Belo Horizonte.<br>💻 Iniciante no mundo da programação.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
+🎓 Estudante de Ensino Médio na escola técnica de TI Cotemig.<br>💻 Iniciante no mundo da programação.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
 
 
 # 💻 Tech Stack:
