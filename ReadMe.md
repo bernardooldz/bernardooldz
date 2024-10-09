@@ -1,7 +1,7 @@
-## Olá, me chamo Bernardo Diniz! 👋
+### Olá, me chamo Bernardo Diniz! 👋
 
-## 💫 Sobre mim:
-🎓 Estudante de Ensino Médio na escola técnica de TI Cotemig.<br>👩‍💻 Desenvolvedor Fullstack em aprendizado.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
+## 📌 Sobre mim:
+🎓 Estudante do Ensino Médio na escola técnica de TI Cotemig.<br>👩‍💻 Desenvolvedor Fullstack em aprendizado.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
 
 
 ## 💻 Tecnologias e Ferramentas:
@@ -21,7 +21,6 @@
 ### Eu estou estudando... 🧩
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooldz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
