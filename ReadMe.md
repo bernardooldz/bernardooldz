@@ -1,7 +1,7 @@
-### 👋 Olá, eu sou **Bernardo Diniz**  
-#### 🚀 **Desenvolvedor Fullstack**  
+# 👋 Olá, eu sou Bernardo Diniz
+### 🚀 **Desenvolvedor Fullstack** 
 
-----
+---
 
 ## 📌 Sobre mim  
 
@@ -32,8 +32,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" width="40px"/>
 </p>  
 
----
-
 ### 🧩 Tecnologias que estou estudando  
 
 <p align="left">
@@ -58,8 +56,7 @@
 
 ## 📩 **Entre em contato comigo!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-diniz-/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardooldz)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-diniz-/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardooldz)  
 
 
 [![](https://visitcount.itsvg.in/api?id=bernardooldz&icon=0&color=0)](https://visitcount.itsvg.in)
