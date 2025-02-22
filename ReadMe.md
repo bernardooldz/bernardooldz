@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d4886&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+my+name+is+Bernardo+Diniz!;I+am+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-
----
+<br/>
 
 ## 📌 Sobre mim  
 
@@ -14,7 +13,7 @@
 🎮 Apaixonado por tecnologia, futebol e videogames.  
 🌱 Aberto a desafios e novos aprendizados todos os dias.  
 
----
+<br/>
 
 ## 🤖 Tecnologias e Ferramentas  
 
@@ -45,7 +44,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40px"/>
 </p>
 
----
+<br/>
 
 ## 📊 Estatísticas  
 
@@ -54,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooldz&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" height="180px"/>
 </p>
 
----
+<br/>
 
 ## 📩 **Entre em contato comigo!**  
 
