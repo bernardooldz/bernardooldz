@@ -1,5 +1,7 @@
-# 👋 Olá, eu sou Bernardo Diniz
-### 🚀 **Desenvolvedor Fullstack** 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d4886&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d4886&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+my+name+is+Bernardo+Diniz!;I+am+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 
 ---
 
@@ -59,4 +61,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-diniz-/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardooldz)  
 
 
-[![](https://visitcount.itsvg.in/api?id=bernardooldz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d4886&height=120&section=footer"/>
