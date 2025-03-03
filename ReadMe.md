@@ -49,8 +49,8 @@
 
 ## 📊 Estatísticas  
 
-<p >
-    <img src="https://github-readme-stats.vercel.app/api?username=bernardooldz&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" height="180px" style="padding-right: 50px;"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernardooldz&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" height="180px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooldz&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" height="180px"/>
 </p>
 
