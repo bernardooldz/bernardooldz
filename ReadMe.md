@@ -17,7 +17,7 @@
 
 ## 🤖 Tecnologias e Ferramentas  
 
-### 🎯 Habilidades que eu já domino  
+### 🎯 Tecnologias que eu já tenho bom conhecimento  
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" width="40px"/>
@@ -39,9 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40px"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40px"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40px"/>    
 </p>
 
 <br/>
@@ -57,8 +55,7 @@
 
 ## 📩 **Entre em contato comigo!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-diniz-/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardooldz)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-diniz-/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardooldz) [![Instagram](https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.ldz/) 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d4886&height=120&section=footer"/>
